@@ -1,6 +1,5 @@
 # 💫 About Me:
-👨‍💼 I’m currently working as a freelance Frontend developer
-📚 I’m currently studying iOS and Android application development
+👨‍💼 I’m currently working as a freelance Frontend developer<br>📚 I’m currently studying iOS and Android application development<br>
 
 
 ## 🌐 Socials:
