@@ -1,6 +1,5 @@
 # 💫 About Me:
-👨‍💼 I’m currently working as a freelance Frontend developer<br>📚 I’m currently studying iOS and Android application development<br>
-
+👨‍💼 I’m currently working as a Software developer
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mattias-gulec-1bbb6a72/)
